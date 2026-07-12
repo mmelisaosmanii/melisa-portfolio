@@ -1,2 +1,4 @@
 # melisa-portfolio
-Software engineering portfolio showcasing AI, data analytics and full-stack projects.
+
+Welcome to my portfolio! 
+I am a Computer Science and Engineering student focusing on building scalable Full-Stack platforms, AI integrations, and Data Analytics dashboards.
